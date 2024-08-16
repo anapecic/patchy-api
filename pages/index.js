@@ -128,7 +128,7 @@ function CopyButton() {
   }
 
   function handleCopying() {
-    copyToClip("domain.com/api/patchy");
+    copyToClip("https://patchy-api.vercel.app/api/patchy");
     setActive(!active);
     setTimeout(() => {
       setActive(active);
