@@ -83,7 +83,7 @@ export default function Home() {
       <p>Check out the api:</p>
 
       <StyledDomain>
-        domain.com/api/patchy{"  "}
+        https://patchy-api.vercel.app/api/patchy{"  "}
         <CopyButton />
       </StyledDomain>
     </StyledWrapper>
